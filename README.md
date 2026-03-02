@@ -25,6 +25,6 @@ This project uses a **Random Forest Regressor** to estimate the time required fo
 
 
 ## 🚀 Usage
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git`
+1. Clone the repo: `git clone https://github.com/sandesh11c/AI-project-.git`
 2. Install requirements: `pip install -r requirements.txt`
 3. Run the script: `python main.py`
